@@ -1,10 +1,12 @@
 {
-    "3386": {
-        "personalize_multiplier": 3,
-        "clicks": 1000
-    },
-    "1": {
-        "personalize_multiplier": 4.4,
-        "clicks": 2000
+    "inbox-report-as-feed-sample": {
+            "3386": {
+            "personalize_multiplier": 3,
+            "clicks": 1000
+        },
+        "1": {
+            "personalize_multiplier": 4.4,
+            "clicks": 2000
+        }
     }
 }
